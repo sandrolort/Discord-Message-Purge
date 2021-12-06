@@ -25,11 +25,14 @@ Open discord in browser. Hit F12, or open up inspector with a rightclick.
 
 # Obtaining Channel IDs
 This one's fairly simple. Either
+
 A. In browser, go to the channel you wish to erase and copy the end of the URL.
+
 B. If you have Developer mode, just right click and copy ID.
 
 # Using the script itself
 ![image](https://user-images.githubusercontent.com/56764429/144906127-90fedf3f-84cd-4116-bef5-b4ff3aeff1c8.png)
+
 You'll really just need to use these 3. 
 1. Token to insert your token
 2. filter to insert a filter (in case you want to delete *preciesly* the embarassing times you told people you unironically liked your favourite series) 
